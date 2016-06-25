@@ -1,0 +1,12 @@
+{
+  "globalDependencies": {
+    "chai": "registry:dt/chai#3.4.0+20160601211834",
+    "gulp": "registry:dt/gulp#3.8.0+20160316155526",
+    "gulp-sourcemaps": "registry:dt/gulp-sourcemaps#0.0.0+20160316155526",
+    "gulp-watch": "registry:dt/gulp-watch#4.1.1+20160316155526",
+    "hapi": "registry:dt/hapi#13.0.0+20160602125023",
+    "mocha": "registry:dt/mocha#2.2.5+20160619032855",
+    "node": "registry:dt/node#6.0.0+20160619064643",
+    "sequelize": "registry:dt/sequelize#3.4.1+20160606151038"
+  }
+}
