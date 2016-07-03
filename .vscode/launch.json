@@ -5,7 +5,7 @@
             "name": "Launch",
             "type": "node",
             "request": "launch",
-            "program": "${workspaceRoot}/gulpfile.js",
+            "program": "${workspaceRoot}/dist/server/server.js",
             "stopOnEntry": false,
             "args": [],
             "cwd": "${workspaceRoot}",
